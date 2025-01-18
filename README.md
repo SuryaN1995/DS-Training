@@ -5,4 +5,4 @@ With DS Course Udemy
 
 https://www.udemy.com/course/data-science-machine-learning-and-deep-learning-with-python/
 
-The complete project with respective material
+The complete project with respective material.
